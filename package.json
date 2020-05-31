@@ -1,5 +1,5 @@
 {
-  "name": "eosjs",
+  "name": "@credify/eosjs",
   "version": "21.0.1-rc2",
   "description": "Talk to eos API",
   "main": "dist/index.js",
